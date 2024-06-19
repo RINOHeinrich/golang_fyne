@@ -1,3 +1,1 @@
-Ce petit programme est un test d'utilisation  de fyne pour la création d'application desktop sous Golang
-A titre informatif, le premier compilation ou lancement est toujours très long, mais lorsque tous les bibliothèques nécessaires sont compilé
-ils sont mis en cache par Golang, et les test et compilation seront rapide
+This little program is a test of the use of fyne for the creation of desktop applications under Golang For information purposes, the first compilation or launch is always very long, but when all the necessary libraries are compiled they are cached by Golang, and testing and compilation will be quick
